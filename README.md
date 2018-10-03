@@ -1,9 +1,9 @@
 # Author info
-Faris El-Khider MD MS
-Cleveland, OH
-January 2018
+## Faris El-Khider MD MS
+## Cleveland, OH
+## January 2018
 
-# TITLE: Using Weather Satellite and Ground Station Ultraviolet Light Data to Map Crohn’s Disease Hospitalizations: A 10-Year Study
+# Using Weather Satellite and Ground Station Ultraviolet Light Data to Map Crohn’s Disease Hospitalizations: A 10-Year Study
 
 Why this study?
 THere is a seasonal variation in serum vitmain D level in Crohn's disease (CD) patients.
