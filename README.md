@@ -1,7 +1,7 @@
 # Author info
-## Faris El-Khider MD MS
-## Cleveland, OH
-## January 2018
+Faris El-Khider MD MS
+Cleveland, OH
+January 2018
 
 # Using Weather Satellite and Ground Station Ultraviolet Light Data to Map Crohn’s Disease Hospitalizations: A 10-Year Study
 
